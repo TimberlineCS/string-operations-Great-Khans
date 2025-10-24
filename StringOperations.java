@@ -12,7 +12,7 @@ public class StringOperations{
         String lwordl = word.substring(word.length - 1);
         String scram = lwordl + mworldl + fwordl;
 
-        System.out.print(scram);
+        System.out.println(scram);
 
         word = "picture";
         fwordl = word.substring(0, 1);
@@ -20,7 +20,7 @@ public class StringOperations{
         lwordl = word.substring(word.length - 1);
         scram = lwordl + mworldl + fwordl;
 
-        System.out.print(scram);
+        System.out.println(scram);
 
         word = "computer";
         fwordl = word.substring(0, 1);
@@ -28,11 +28,11 @@ public class StringOperations{
         lwordl = word.substring(word.length - 1);
         scram = lwordl + mworldl + fwordl;
 
-        System.out.print(scram);
+        System.out.println(scram);
 
         /*Challenge 2
-        Using escape sequences, this program outputs ASCII art in one line.*/
+        This program outputs ASCII art in one line.*/
 
-        System.out.print("|\\---/|\n| O_O |\n \\_^_/");
+        System.out.println("|\\---/|\n| O_O |\n \\_^_/");
     }
 }

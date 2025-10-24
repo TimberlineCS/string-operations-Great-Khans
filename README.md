@@ -39,7 +39,7 @@ on separate lines
 	* Course
 	* Date
 
-- [ ] Inside the main method of your program use block quotes to write a comments which indicate challenge 1 and challenge 2, along with a description about what eah of these challenges accomplish. 
+- [ ] Inside the main method of your program use block quotes to write a comments which indicate challenge 1 and challenge 2, along with a description about what each of these challenges accomplish. 
 
 - [ ] Once you have completed the above be sure to push your changes to GitHub
 
